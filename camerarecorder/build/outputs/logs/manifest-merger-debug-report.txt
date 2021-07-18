@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:4:5-71
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:4:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:7:22-76
+uses-feature#android.hardware.camera
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:9:19-67
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:13:5-95:19
+	android:supportsRtl
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:17:9-40
+activity#com.daasuu.camerarecorder.VideoProcessActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:18:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:20:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:19:13-74
+activity#com.daasuu.camerarecorder.PortrateActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:22:9-24:51
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:23:13-70
+activity#com.daasuu.camerarecorder.BaseCameraActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:25:9-27:51
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:26:13-72
+activity#com.daasuu.camerarecorder.SquareActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:28:9-77
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:28:19-74
+activity#com.daasuu.camerarecorder.LandscapeActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:29:9-31:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:30:13-71
+activity#com.daasuu.camerarecorder.CameraMainActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:32:9-34:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:33:13-72
+activity#com.daasuu.camerarecorder.FastAndSlowVideoMotionActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:35:9-37:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:36:13-84
+activity#com.daasuu.camerarecorder.CombineImagesActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:38:9-40:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:39:13-75
+activity#com.daasuu.camerarecorder.ExtractAudioActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:41:9-43:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:42:13-74
+activity#com.daasuu.camerarecorder.AddTextOnVideoActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:44:9-46:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:45:13-76
+activity#com.daasuu.camerarecorder.ReverseVideoActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:47:9-49:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:48:13-74
+activity#com.daasuu.camerarecorder.MergeImageAndMP3Activity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:50:9-52:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:51:13-78
+activity#com.daasuu.camerarecorder.AddWaterMarkOnVideoActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:53:9-55:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:54:13-81
+activity#com.daasuu.camerarecorder.CombineVideosActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:56:9-58:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:57:13-75
+activity#com.daasuu.camerarecorder.CombineImageAndVideoActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:60:13-82
+activity#com.daasuu.camerarecorder.MergeAudioVideoActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:62:9-64:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:63:13-77
+activity#com.daasuu.camerarecorder.RemoveAudioFromVideoActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:65:9-67:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:66:13-82
+activity#com.daasuu.camerarecorder.ImageToVideoConvertActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:68:9-70:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:69:13-81
+activity#com.daasuu.camerarecorder.VideoRotateFlipActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:71:9-73:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:72:13-77
+activity#com.daasuu.camerarecorder.CutVideoUsingTimeActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:74:9-76:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:75:13-79
+activity#com.daasuu.camerarecorder.VideoToGifActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:77:9-79:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:78:13-72
+activity#com.daasuu.camerarecorder.OptionsList
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:80:9-82:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:81:13-65
+activity#com.daasuu.camerarecorder.TrimMainActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:83:9-85:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:84:13-70
+activity#com.daasuu.camerarecorder.TrimmerActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:86:9-88:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:87:13-69
+activity#com.daasuu.camerarecorder.VoiceRecorderActivity
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:89:9-91:52
+	android:screenOrientation
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:90:13-75
+meta-data#preloaded_fonts
+ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:92:9-94:57
+	android:resource
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:94:13-54
+	android:name
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml:93:13-43
+uses-sdk
+INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\Desktop\BestEditor\camerarecorder\src\main\AndroidManifest.xml

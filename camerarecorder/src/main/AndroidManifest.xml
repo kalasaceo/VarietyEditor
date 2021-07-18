@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.daasuu.camerarecorder">
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.daasuu.camerarecorder.VideoProcessActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.daasuu.camerarecorder.PortrateActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.daasuu.camerarecorder.BaseCameraActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.daasuu.camerarecorder.SquareActivity" />
+        <activity
+            android:name="com.daasuu.camerarecorder.LandscapeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.CameraMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.FastAndSlowVideoMotionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.CombineImagesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.ExtractAudioActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.AddTextOnVideoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.ReverseVideoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.MergeImageAndMP3Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.AddWaterMarkOnVideoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.CombineVideosActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.CombineImageAndVideoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.MergeAudioVideoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.RemoveAudioFromVideoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.ImageToVideoConvertActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.VideoRotateFlipActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.CutVideoUsingTimeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.VideoToGifActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.OptionsList"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.TrimMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.TrimmerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.daasuu.camerarecorder.VoiceRecorderActivity"
+            android:screenOrientation="portrait" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+</manifest>

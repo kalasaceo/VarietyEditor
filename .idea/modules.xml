@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BestEditor.iml" filepath="$PROJECT_DIR$/.idea/modules/BestEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SSffmpegVideoOperation/BestEditor.SSffmpegVideoOperation.iml" filepath="$PROJECT_DIR$/.idea/modules/SSffmpegVideoOperation/BestEditor.SSffmpegVideoOperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camerarecorder/BestEditor.camerarecorder.iml" filepath="$PROJECT_DIR$/.idea/modules/camerarecorder/BestEditor.camerarecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/BestEditor.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/BestEditor.sample.iml" />
+    </modules>
+  </component>
+</project>
